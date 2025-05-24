@@ -1,1 +1,8 @@
 .DS_Store
+.env
+__pycache__/
+sample_docs/
+*.db
+*-checkpoint.py
+.ipynb_checkpoings
+.ipynb_checkpoints/
